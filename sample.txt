@@ -4,3 +4,5 @@ this is third class
 this is fourth class
 this is fifth class
 this is sixth line
+this is seventh line
+
